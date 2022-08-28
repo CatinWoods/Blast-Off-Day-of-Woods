@@ -5,9 +5,10 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub
+# Introduction to Blast-Off-Day-of-Woods
 
-_Get started using GitHub in less than an hour._
+_Get started using GitHub in less than an hour._  
+_And get started build my 'Blast-Off-Day-of-Woods' repository in less than an hour._
 
 <!-- 
   <<< Author notes: Start of the course >>> 
